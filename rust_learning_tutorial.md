@@ -837,7 +837,7 @@ mod math {
 cargo run --example 11_modules
 ```
 
-## 15. 泛型与 trait
+## 15. 泛型与 特征（trait）
 
 泛型让代码适配多种类型：
 
